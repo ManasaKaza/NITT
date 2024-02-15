@@ -10,11 +10,6 @@ UCI Machine Learning Repository
   Absenteeism at work dataset
    Heart failure clinical records dataset
 
-Clustering Technique	K-Means	DBScan	Hierarchical
-Dataset domain	Medical	Business	Medical	Business	 Medical	Business
-Silhouette Coefficient	 0.505	0.342	 0.708	 0.330	0.536 	0.336
-No of Clusters	5	5	2	1		
-Fowlkes-Mallows Score	0.412	0.223	0.724 0.418 0.567 0.366
 
 Conclusion:
 
